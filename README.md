@@ -1,14 +1,26 @@
 <div align="center">
-  <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" alt="Stock-Wise Logo" width="100">
-  <h1>Stock-Wise</h1>
-  <p><strong>AI-Driven Demand Forecasting & Inventory Optimization System</strong></p>
+  <img src="https://img.icons8.com/fluency/128/bar-chart.png" alt="Stock-Wise Logo" width="100">
+  
+  # 📈 Stock-Wise
+  ### **AI-Driven Demand Forecasting & Intelligent Inventory Optimization**
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/LightGBM-008000?style=for-the-badge" alt="LightGBM">
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-    <img src="https://img.shields.io/badge/Gradio-FFBB00?style=for-the-badge&logo=gradio&logoColor=black" alt="Gradio">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/LightGBM-008000?style=flat-square" alt="LightGBM">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+    <img src="https://img.shields.io/badge/Gradio-FFBB00?style=flat-square&logo=gradio&logoColor=black" alt="Gradio">
   </p>
+
+  <br />
+  <div style="background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%); padding: 30px; border-radius: 15px; border: 1px solid #334155; max-width: 600px;">
+    <h3 style="color: #f8fafc; margin-top: 0;">🚀 Live Interactive Experience</h3>
+    <p style="color: #94a3b8;">Explore the demand forecasting engine and inventory risk dashboard in real-time.</p>
+    <a href="https://huggingface.co/spaces/rono2000/Stock-Wise" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/⚡_LAUNCH_STOCK--WISE_DEMO-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="40">
+    </a>
+    <p style="color: #64748b; font-size: 12px; margin-bottom: 0;">Hosted on Hugging Face Spaces</p>
+  </div>
+  <br />
 </div>
 
 ---
